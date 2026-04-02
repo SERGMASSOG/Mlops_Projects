@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Logs de Airflow
+Airflow-project/logs/
+Airflow-project/__pycache__/
+
+# Archivos de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MLflow tracking
+mlflow/
+
+# Archivos temporales
+*.log
+*.tmp
