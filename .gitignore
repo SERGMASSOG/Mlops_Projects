@@ -12,9 +12,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# MLflow tracking
-mlflow/
-
 # Archivos temporales
 *.log
 *.tmp
